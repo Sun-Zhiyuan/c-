@@ -107,6 +107,9 @@
 		<Unit filename="C:/Users/zhiyuan/CLionProjects/untitled/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/zhiyuan/CLionProjects/untitled/maxSlidingWindow.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/zhiyuan/CLionProjects/untitled/maxTwoEvents.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -129,6 +132,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/zhiyuan/CLionProjects/untitled/reverseKGroup.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/zhiyuan/CLionProjects/untitled/rotate.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/zhiyuan/CLionProjects/untitled/singleNumber.cpp">

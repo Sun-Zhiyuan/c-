@@ -25,4 +25,6 @@ add_executable(untitled Solution.cpp
         swapPairs.cpp
         reverseKGroup.cpp
         subarraySum.cpp
+        rotate.cpp
+        maxSlidingWindow.cpp
 )

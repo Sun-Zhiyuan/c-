@@ -344,6 +344,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+maxSlidingWindow.obj: maxSlidingWindow.cpp.obj
+.PHONY : maxSlidingWindow.obj
+
+# target to build an object file
+maxSlidingWindow.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/maxSlidingWindow.cpp.obj
+.PHONY : maxSlidingWindow.cpp.obj
+
+maxSlidingWindow.i: maxSlidingWindow.cpp.i
+.PHONY : maxSlidingWindow.i
+
+# target to preprocess a source file
+maxSlidingWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/maxSlidingWindow.cpp.i
+.PHONY : maxSlidingWindow.cpp.i
+
+maxSlidingWindow.s: maxSlidingWindow.cpp.s
+.PHONY : maxSlidingWindow.s
+
+# target to generate assembly for a file
+maxSlidingWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/maxSlidingWindow.cpp.s
+.PHONY : maxSlidingWindow.cpp.s
+
 maxTwoEvents.obj: maxTwoEvents.cpp.obj
 .PHONY : maxTwoEvents.obj
 
@@ -536,6 +560,30 @@ reverseKGroup.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/reverseKGroup.cpp.s
 .PHONY : reverseKGroup.cpp.s
 
+rotate.obj: rotate.cpp.obj
+.PHONY : rotate.obj
+
+# target to build an object file
+rotate.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/rotate.cpp.obj
+.PHONY : rotate.cpp.obj
+
+rotate.i: rotate.cpp.i
+.PHONY : rotate.i
+
+# target to preprocess a source file
+rotate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/rotate.cpp.i
+.PHONY : rotate.cpp.i
+
+rotate.s: rotate.cpp.s
+.PHONY : rotate.s
+
+# target to generate assembly for a file
+rotate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/rotate.cpp.s
+.PHONY : rotate.cpp.s
+
 singleNumber.obj: singleNumber.cpp.obj
 .PHONY : singleNumber.obj
 
@@ -668,6 +716,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... maxSlidingWindow.obj
+	@echo ... maxSlidingWindow.i
+	@echo ... maxSlidingWindow.s
 	@echo ... maxTwoEvents.obj
 	@echo ... maxTwoEvents.i
 	@echo ... maxTwoEvents.s
@@ -692,6 +743,9 @@ help:
 	@echo ... reverseKGroup.obj
 	@echo ... reverseKGroup.i
 	@echo ... reverseKGroup.s
+	@echo ... rotate.obj
+	@echo ... rotate.i
+	@echo ... rotate.s
 	@echo ... singleNumber.obj
 	@echo ... singleNumber.i
 	@echo ... singleNumber.s
