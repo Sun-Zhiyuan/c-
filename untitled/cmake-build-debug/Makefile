@@ -128,6 +128,30 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+C_/Users/zhiyuan/CLionProjects/untitled1/test.obj: C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj
+.PHONY : C_/Users/zhiyuan/CLionProjects/untitled1/test.obj
+
+# target to build an object file
+C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj
+.PHONY : C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj
+
+C_/Users/zhiyuan/CLionProjects/untitled1/test.i: C_/Users/zhiyuan/CLionProjects/untitled1/test.c.i
+.PHONY : C_/Users/zhiyuan/CLionProjects/untitled1/test.i
+
+# target to preprocess a source file
+C_/Users/zhiyuan/CLionProjects/untitled1/test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.i
+.PHONY : C_/Users/zhiyuan/CLionProjects/untitled1/test.c.i
+
+C_/Users/zhiyuan/CLionProjects/untitled1/test.s: C_/Users/zhiyuan/CLionProjects/untitled1/test.c.s
+.PHONY : C_/Users/zhiyuan/CLionProjects/untitled1/test.s
+
+# target to generate assembly for a file
+C_/Users/zhiyuan/CLionProjects/untitled1/test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.s
+.PHONY : C_/Users/zhiyuan/CLionProjects/untitled1/test.c.s
+
 Solution.obj: Solution.cpp.obj
 .PHONY : Solution.obj
 
@@ -512,6 +536,30 @@ passThePillow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/passThePillow.cpp.s
 .PHONY : passThePillow.cpp.s
 
+productExceptSelf.obj: productExceptSelf.cpp.obj
+.PHONY : productExceptSelf.obj
+
+# target to build an object file
+productExceptSelf.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/productExceptSelf.cpp.obj
+.PHONY : productExceptSelf.cpp.obj
+
+productExceptSelf.i: productExceptSelf.cpp.i
+.PHONY : productExceptSelf.i
+
+# target to preprocess a source file
+productExceptSelf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/productExceptSelf.cpp.i
+.PHONY : productExceptSelf.cpp.i
+
+productExceptSelf.s: productExceptSelf.cpp.s
+.PHONY : productExceptSelf.s
+
+# target to generate assembly for a file
+productExceptSelf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/productExceptSelf.cpp.s
+.PHONY : productExceptSelf.cpp.s
+
 removeNthFromEnd.obj: removeNthFromEnd.cpp.obj
 .PHONY : removeNthFromEnd.obj
 
@@ -583,6 +631,30 @@ rotate.s: rotate.cpp.s
 rotate.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/rotate.cpp.s
 .PHONY : rotate.cpp.s
+
+setZeroes.obj: setZeroes.cpp.obj
+.PHONY : setZeroes.obj
+
+# target to build an object file
+setZeroes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/setZeroes.cpp.obj
+.PHONY : setZeroes.cpp.obj
+
+setZeroes.i: setZeroes.cpp.i
+.PHONY : setZeroes.i
+
+# target to preprocess a source file
+setZeroes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/setZeroes.cpp.i
+.PHONY : setZeroes.cpp.i
+
+setZeroes.s: setZeroes.cpp.s
+.PHONY : setZeroes.s
+
+# target to generate assembly for a file
+setZeroes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/setZeroes.cpp.s
+.PHONY : setZeroes.cpp.s
 
 singleNumber.obj: singleNumber.cpp.obj
 .PHONY : singleNumber.obj
@@ -689,6 +761,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
+	@echo ... C_/Users/zhiyuan/CLionProjects/untitled1/test.obj
+	@echo ... C_/Users/zhiyuan/CLionProjects/untitled1/test.i
+	@echo ... C_/Users/zhiyuan/CLionProjects/untitled1/test.s
 	@echo ... Solution.obj
 	@echo ... Solution.i
 	@echo ... Solution.s
@@ -737,6 +812,9 @@ help:
 	@echo ... passThePillow.obj
 	@echo ... passThePillow.i
 	@echo ... passThePillow.s
+	@echo ... productExceptSelf.obj
+	@echo ... productExceptSelf.i
+	@echo ... productExceptSelf.s
 	@echo ... removeNthFromEnd.obj
 	@echo ... removeNthFromEnd.i
 	@echo ... removeNthFromEnd.s
@@ -746,6 +824,9 @@ help:
 	@echo ... rotate.obj
 	@echo ... rotate.i
 	@echo ... rotate.s
+	@echo ... setZeroes.obj
+	@echo ... setZeroes.i
+	@echo ... setZeroes.s
 	@echo ... singleNumber.obj
 	@echo ... singleNumber.i
 	@echo ... singleNumber.s

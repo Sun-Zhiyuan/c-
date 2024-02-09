@@ -5,7 +5,7 @@
 #include "iostream"
 using namespace std;
 
-class Solution {
+class MaxSlidingWindow {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         vector<int> answer;

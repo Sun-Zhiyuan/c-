@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/zhiyuan/CLionProjects/untitled1/test.c" "CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj" "gcc" "CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/Solution.cpp" "CMakeFiles/untitled.dir/Solution.cpp.obj" "gcc" "CMakeFiles/untitled.dir/Solution.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/StockPrice.cpp" "CMakeFiles/untitled.dir/StockPrice.cpp.obj" "gcc" "CMakeFiles/untitled.dir/StockPrice.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/deckRevealedIncreasing.cpp" "CMakeFiles/untitled.dir/deckRevealedIncreasing.cpp.obj" "gcc" "CMakeFiles/untitled.dir/deckRevealedIncreasing.cpp.obj.d"
@@ -24,9 +25,11 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/zhiyuan/CLionProjects/untitled/minOperations.cpp" "CMakeFiles/untitled.dir/minOperations.cpp.obj" "gcc" "CMakeFiles/untitled.dir/minOperations.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/nextBeautifulNumber.cpp" "CMakeFiles/untitled.dir/nextBeautifulNumber.cpp.obj" "gcc" "CMakeFiles/untitled.dir/nextBeautifulNumber.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/passThePillow.cpp" "CMakeFiles/untitled.dir/passThePillow.cpp.obj" "gcc" "CMakeFiles/untitled.dir/passThePillow.cpp.obj.d"
+  "C:/Users/zhiyuan/CLionProjects/untitled/productExceptSelf.cpp" "CMakeFiles/untitled.dir/productExceptSelf.cpp.obj" "gcc" "CMakeFiles/untitled.dir/productExceptSelf.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/removeNthFromEnd.cpp" "CMakeFiles/untitled.dir/removeNthFromEnd.cpp.obj" "gcc" "CMakeFiles/untitled.dir/removeNthFromEnd.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/reverseKGroup.cpp" "CMakeFiles/untitled.dir/reverseKGroup.cpp.obj" "gcc" "CMakeFiles/untitled.dir/reverseKGroup.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/rotate.cpp" "CMakeFiles/untitled.dir/rotate.cpp.obj" "gcc" "CMakeFiles/untitled.dir/rotate.cpp.obj.d"
+  "C:/Users/zhiyuan/CLionProjects/untitled/setZeroes.cpp" "CMakeFiles/untitled.dir/setZeroes.cpp.obj" "gcc" "CMakeFiles/untitled.dir/setZeroes.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/singleNumber.cpp" "CMakeFiles/untitled.dir/singleNumber.cpp.obj" "gcc" "CMakeFiles/untitled.dir/singleNumber.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/subarraySum.cpp" "CMakeFiles/untitled.dir/subarraySum.cpp.obj" "gcc" "CMakeFiles/untitled.dir/subarraySum.cpp.obj.d"
   "C:/Users/zhiyuan/CLionProjects/untitled/swapPairs.cpp" "CMakeFiles/untitled.dir/swapPairs.cpp.obj" "gcc" "CMakeFiles/untitled.dir/swapPairs.cpp.obj.d"

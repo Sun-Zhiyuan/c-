@@ -27,4 +27,7 @@ add_executable(untitled Solution.cpp
         subarraySum.cpp
         rotate.cpp
         maxSlidingWindow.cpp
+        setZeroes.cpp
+        ../untitled1/test.c
+        productExceptSelf.cpp
 )

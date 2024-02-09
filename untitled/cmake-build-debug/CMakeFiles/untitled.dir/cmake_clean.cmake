@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj"
+  "CMakeFiles/untitled.dir/C_/Users/zhiyuan/CLionProjects/untitled1/test.c.obj.d"
   "CMakeFiles/untitled.dir/Solution.cpp.obj"
   "CMakeFiles/untitled.dir/Solution.cpp.obj.d"
   "CMakeFiles/untitled.dir/StockPrice.cpp.obj"
@@ -31,12 +33,16 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/nextBeautifulNumber.cpp.obj.d"
   "CMakeFiles/untitled.dir/passThePillow.cpp.obj"
   "CMakeFiles/untitled.dir/passThePillow.cpp.obj.d"
+  "CMakeFiles/untitled.dir/productExceptSelf.cpp.obj"
+  "CMakeFiles/untitled.dir/productExceptSelf.cpp.obj.d"
   "CMakeFiles/untitled.dir/removeNthFromEnd.cpp.obj"
   "CMakeFiles/untitled.dir/removeNthFromEnd.cpp.obj.d"
   "CMakeFiles/untitled.dir/reverseKGroup.cpp.obj"
   "CMakeFiles/untitled.dir/reverseKGroup.cpp.obj.d"
   "CMakeFiles/untitled.dir/rotate.cpp.obj"
   "CMakeFiles/untitled.dir/rotate.cpp.obj.d"
+  "CMakeFiles/untitled.dir/setZeroes.cpp.obj"
+  "CMakeFiles/untitled.dir/setZeroes.cpp.obj.d"
   "CMakeFiles/untitled.dir/singleNumber.cpp.obj"
   "CMakeFiles/untitled.dir/singleNumber.cpp.obj.d"
   "CMakeFiles/untitled.dir/subarraySum.cpp.obj"
@@ -52,6 +58,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C CXX)
   include(CMakeFiles/untitled.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
